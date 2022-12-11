@@ -1,4 +1,4 @@
-# new-york-cipy-airbnb-kaggle
+# new-york-city-airbnb-kaggle
 Kaggle project
 
 Objectives:
