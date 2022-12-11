@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/421894102227387564/72e8ecb9e4954547a91c4bf75005a52a/artifacts
+end_time: 1670635798923
+entry_point_name: ''
+experiment_id: '421894102227387564'
+lifecycle_stage: active
+run_id: 72e8ecb9e4954547a91c4bf75005a52a
+run_name: adaptable-lamb-70
+run_uuid: 72e8ecb9e4954547a91c4bf75005a52a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670634412372
+status: 3
+tags: []
+user_id: daniel

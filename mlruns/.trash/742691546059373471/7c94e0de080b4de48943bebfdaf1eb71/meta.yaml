@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/742691546059373471/7c94e0de080b4de48943bebfdaf1eb71/artifacts
+end_time: 1670528847528
+entry_point_name: ''
+experiment_id: '742691546059373471'
+lifecycle_stage: active
+run_id: 7c94e0de080b4de48943bebfdaf1eb71
+run_name: rumbling-wasp-487
+run_uuid: 7c94e0de080b4de48943bebfdaf1eb71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670528847155
+status: 3
+tags: []
+user_id: daniel

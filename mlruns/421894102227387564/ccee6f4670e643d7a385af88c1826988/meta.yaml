@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/421894102227387564/ccee6f4670e643d7a385af88c1826988/artifacts
+end_time: 1670591805709
+entry_point_name: ''
+experiment_id: '421894102227387564'
+lifecycle_stage: active
+run_id: ccee6f4670e643d7a385af88c1826988
+run_name: upset-fly-7
+run_uuid: ccee6f4670e643d7a385af88c1826988
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670590469869
+status: 3
+tags: []
+user_id: daniel

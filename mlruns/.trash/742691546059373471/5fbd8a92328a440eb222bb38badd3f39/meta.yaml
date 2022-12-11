@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/742691546059373471/5fbd8a92328a440eb222bb38badd3f39/artifacts
+end_time: 1670517777054
+entry_point_name: ''
+experiment_id: '742691546059373471'
+lifecycle_stage: active
+run_id: 5fbd8a92328a440eb222bb38badd3f39
+run_name: angry-hen-479
+run_uuid: 5fbd8a92328a440eb222bb38badd3f39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670517776681
+status: 3
+tags: []
+user_id: daniel

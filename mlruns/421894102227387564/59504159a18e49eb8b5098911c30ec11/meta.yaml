@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/421894102227387564/59504159a18e49eb8b5098911c30ec11/artifacts
+end_time: 1670660563500
+entry_point_name: ''
+experiment_id: '421894102227387564'
+lifecycle_stage: active
+run_id: 59504159a18e49eb8b5098911c30ec11
+run_name: adventurous-mule-12
+run_uuid: 59504159a18e49eb8b5098911c30ec11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670660496420
+status: 3
+tags: []
+user_id: daniel

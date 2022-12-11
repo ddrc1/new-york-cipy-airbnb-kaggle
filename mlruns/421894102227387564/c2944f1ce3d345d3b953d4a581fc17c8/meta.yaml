@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/421894102227387564/c2944f1ce3d345d3b953d4a581fc17c8/artifacts
+end_time: 1670607598862
+entry_point_name: ''
+experiment_id: '421894102227387564'
+lifecycle_stage: active
+run_id: c2944f1ce3d345d3b953d4a581fc17c8
+run_name: upset-shark-764
+run_uuid: c2944f1ce3d345d3b953d4a581fc17c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670606097905
+status: 3
+tags: []
+user_id: daniel

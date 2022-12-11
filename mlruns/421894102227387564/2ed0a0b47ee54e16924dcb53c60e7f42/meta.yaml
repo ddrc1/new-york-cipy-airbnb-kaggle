@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/421894102227387564/2ed0a0b47ee54e16924dcb53c60e7f42/artifacts
+end_time: 1670625234480
+entry_point_name: ''
+experiment_id: '421894102227387564'
+lifecycle_stage: active
+run_id: 2ed0a0b47ee54e16924dcb53c60e7f42
+run_name: unleashed-fly-435
+run_uuid: 2ed0a0b47ee54e16924dcb53c60e7f42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670622857657
+status: 3
+tags: []
+user_id: daniel

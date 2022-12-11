@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/421894102227387564/abcf22c6dab74082be5e346dbc6adea9/artifacts
+end_time: 1670564526235
+entry_point_name: ''
+experiment_id: '421894102227387564'
+lifecycle_stage: active
+run_id: abcf22c6dab74082be5e346dbc6adea9
+run_name: honorable-mink-904
+run_uuid: abcf22c6dab74082be5e346dbc6adea9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670564175802
+status: 3
+tags: []
+user_id: daniel

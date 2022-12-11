@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/421894102227387564/2cb1cb32790f4f149cafc8718645221c/artifacts
+end_time: 1670555864294
+entry_point_name: ''
+experiment_id: '421894102227387564'
+lifecycle_stage: active
+run_id: 2cb1cb32790f4f149cafc8718645221c
+run_name: puzzled-stag-385
+run_uuid: 2cb1cb32790f4f149cafc8718645221c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670555772783
+status: 3
+tags: []
+user_id: daniel

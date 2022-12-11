@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/421894102227387564/d9ee6d1a9cbd4f42b306b9a1315cf934/artifacts
+end_time: 1670558014242
+entry_point_name: ''
+experiment_id: '421894102227387564'
+lifecycle_stage: active
+run_id: d9ee6d1a9cbd4f42b306b9a1315cf934
+run_name: unleashed-duck-955
+run_uuid: d9ee6d1a9cbd4f42b306b9a1315cf934
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670555864318
+status: 3
+tags: []
+user_id: daniel

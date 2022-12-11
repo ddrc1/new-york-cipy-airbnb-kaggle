@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/421894102227387564/ff2d32b40fcb4636bce2c7a2a0390675/artifacts
+end_time: 1670651770545
+entry_point_name: ''
+experiment_id: '421894102227387564'
+lifecycle_stage: active
+run_id: ff2d32b40fcb4636bce2c7a2a0390675
+run_name: auspicious-swan-855
+run_uuid: ff2d32b40fcb4636bce2c7a2a0390675
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670651683001
+status: 3
+tags: []
+user_id: daniel

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/421894102227387564/450200945daf4643b4c941f4e8153fad/artifacts
+end_time: 1670584259866
+entry_point_name: ''
+experiment_id: '421894102227387564'
+lifecycle_stage: active
+run_id: 450200945daf4643b4c941f4e8153fad
+run_name: legendary-bug-793
+run_uuid: 450200945daf4643b4c941f4e8153fad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670584187117
+status: 3
+tags: []
+user_id: daniel

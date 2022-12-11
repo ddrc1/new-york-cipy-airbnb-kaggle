@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/421894102227387564/d7e5cbfc58f3415e9589e323e6aef0fa/artifacts
+end_time: 1670571832033
+entry_point_name: ''
+experiment_id: '421894102227387564'
+lifecycle_stage: active
+run_id: d7e5cbfc58f3415e9589e323e6aef0fa
+run_name: wistful-shrimp-534
+run_uuid: d7e5cbfc58f3415e9589e323e6aef0fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670569114317
+status: 3
+tags: []
+user_id: daniel

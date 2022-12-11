@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/742691546059373471/cc9984af5f004fe39d2afb0fcc49b005/artifacts
+end_time: 1670513898415
+entry_point_name: ''
+experiment_id: '742691546059373471'
+lifecycle_stage: active
+run_id: cc9984af5f004fe39d2afb0fcc49b005
+run_name: suave-moth-668
+run_uuid: cc9984af5f004fe39d2afb0fcc49b005
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670513898142
+status: 3
+tags: []
+user_id: daniel

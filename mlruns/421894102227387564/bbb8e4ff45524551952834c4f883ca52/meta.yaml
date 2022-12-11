@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/421894102227387564/bbb8e4ff45524551952834c4f883ca52/artifacts
+end_time: 1670554900847
+entry_point_name: ''
+experiment_id: '421894102227387564'
+lifecycle_stage: active
+run_id: bbb8e4ff45524551952834c4f883ca52
+run_name: secretive-doe-27
+run_uuid: bbb8e4ff45524551952834c4f883ca52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670553274321
+status: 3
+tags: []
+user_id: daniel

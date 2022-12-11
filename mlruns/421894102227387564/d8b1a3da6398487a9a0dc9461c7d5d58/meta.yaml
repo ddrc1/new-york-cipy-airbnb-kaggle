@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/421894102227387564/d8b1a3da6398487a9a0dc9461c7d5d58/artifacts
+end_time: 1670627748950
+entry_point_name: ''
+experiment_id: '421894102227387564'
+lifecycle_stage: active
+run_id: d8b1a3da6398487a9a0dc9461c7d5d58
+run_name: upbeat-grub-327
+run_uuid: d8b1a3da6398487a9a0dc9461c7d5d58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670627353412
+status: 3
+tags: []
+user_id: daniel

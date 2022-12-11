@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/421894102227387564/f1baca9045ce4e6c854e13b4d0f15f1a/artifacts
+end_time: 1670579722291
+entry_point_name: ''
+experiment_id: '421894102227387564'
+lifecycle_stage: active
+run_id: f1baca9045ce4e6c854e13b4d0f15f1a
+run_name: calm-seal-456
+run_uuid: f1baca9045ce4e6c854e13b4d0f15f1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670579632269
+status: 3
+tags: []
+user_id: daniel

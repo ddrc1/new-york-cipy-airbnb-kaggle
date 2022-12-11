@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/421894102227387564/a513210b90b34affb527501bff99e374/artifacts
+end_time: 1670634412347
+entry_point_name: ''
+experiment_id: '421894102227387564'
+lifecycle_stage: active
+run_id: a513210b90b34affb527501bff99e374
+run_name: thoughtful-wren-90
+run_uuid: a513210b90b34affb527501bff99e374
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670632385018
+status: 3
+tags: []
+user_id: daniel

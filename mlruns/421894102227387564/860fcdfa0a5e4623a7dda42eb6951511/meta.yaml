@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/421894102227387564/860fcdfa0a5e4623a7dda42eb6951511/artifacts
+end_time: 1670555367346
+entry_point_name: ''
+experiment_id: '421894102227387564'
+lifecycle_stage: active
+run_id: 860fcdfa0a5e4623a7dda42eb6951511
+run_name: upbeat-boar-138
+run_uuid: 860fcdfa0a5e4623a7dda42eb6951511
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670554900872
+status: 3
+tags: []
+user_id: daniel

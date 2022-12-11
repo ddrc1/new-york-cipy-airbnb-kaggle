@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/421894102227387564/7a999c5e1cd44b0881dc5f7ef315d8e1/artifacts
+end_time: 1670597934889
+entry_point_name: ''
+experiment_id: '421894102227387564'
+lifecycle_stage: active
+run_id: 7a999c5e1cd44b0881dc5f7ef315d8e1
+run_name: dazzling-sloth-246
+run_uuid: 7a999c5e1cd44b0881dc5f7ef315d8e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670596074106
+status: 3
+tags: []
+user_id: daniel

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/742691546059373471/632020b0adfc4498a0eafab8ae04b39f/artifacts
+end_time: 1670518615664
+entry_point_name: ''
+experiment_id: '742691546059373471'
+lifecycle_stage: active
+run_id: 632020b0adfc4498a0eafab8ae04b39f
+run_name: placid-stag-597
+run_uuid: 632020b0adfc4498a0eafab8ae04b39f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670518615430
+status: 3
+tags: []
+user_id: daniel

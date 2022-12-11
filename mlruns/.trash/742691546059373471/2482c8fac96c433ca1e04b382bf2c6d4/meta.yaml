@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/742691546059373471/2482c8fac96c433ca1e04b382bf2c6d4/artifacts
+end_time: 1670514597221
+entry_point_name: ''
+experiment_id: '742691546059373471'
+lifecycle_stage: active
+run_id: 2482c8fac96c433ca1e04b382bf2c6d4
+run_name: peaceful-skunk-51
+run_uuid: 2482c8fac96c433ca1e04b382bf2c6d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670514596885
+status: 3
+tags: []
+user_id: daniel

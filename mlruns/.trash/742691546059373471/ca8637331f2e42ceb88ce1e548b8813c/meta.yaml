@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/742691546059373471/ca8637331f2e42ceb88ce1e548b8813c/artifacts
+end_time: 1670516111032
+entry_point_name: ''
+experiment_id: '742691546059373471'
+lifecycle_stage: active
+run_id: ca8637331f2e42ceb88ce1e548b8813c
+run_name: tasteful-ox-717
+run_uuid: ca8637331f2e42ceb88ce1e548b8813c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670516110732
+status: 3
+tags: []
+user_id: daniel

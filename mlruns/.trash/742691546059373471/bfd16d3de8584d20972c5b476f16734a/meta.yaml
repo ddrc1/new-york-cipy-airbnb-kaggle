@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/742691546059373471/bfd16d3de8584d20972c5b476f16734a/artifacts
+end_time: 1670516211955
+entry_point_name: ''
+experiment_id: '742691546059373471'
+lifecycle_stage: active
+run_id: bfd16d3de8584d20972c5b476f16734a
+run_name: burly-worm-152
+run_uuid: bfd16d3de8584d20972c5b476f16734a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670516211621
+status: 3
+tags: []
+user_id: daniel

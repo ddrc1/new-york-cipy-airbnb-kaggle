@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/421894102227387564/244289c934b54093aec967cd708520da/artifacts
+end_time: 1670640384283
+entry_point_name: ''
+experiment_id: '421894102227387564'
+lifecycle_stage: active
+run_id: 244289c934b54093aec967cd708520da
+run_name: unruly-owl-574
+run_uuid: 244289c934b54093aec967cd708520da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670639830198
+status: 3
+tags: []
+user_id: daniel

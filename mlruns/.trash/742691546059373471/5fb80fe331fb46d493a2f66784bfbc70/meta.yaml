@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/742691546059373471/5fb80fe331fb46d493a2f66784bfbc70/artifacts
+end_time: 1670519114010
+entry_point_name: ''
+experiment_id: '742691546059373471'
+lifecycle_stage: active
+run_id: 5fb80fe331fb46d493a2f66784bfbc70
+run_name: auspicious-lamb-790
+run_uuid: 5fb80fe331fb46d493a2f66784bfbc70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670519113734
+status: 3
+tags: []
+user_id: daniel

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/421894102227387564/a11cc2fccfb0429aaa67fbd9ccaac609/artifacts
+end_time: 1670650835400
+entry_point_name: ''
+experiment_id: '421894102227387564'
+lifecycle_stage: active
+run_id: a11cc2fccfb0429aaa67fbd9ccaac609
+run_name: righteous-croc-320
+run_uuid: a11cc2fccfb0429aaa67fbd9ccaac609
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670649179692
+status: 3
+tags: []
+user_id: daniel

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/421894102227387564/99963fa236114f40bbc80b16c51ed8f4/artifacts
+end_time: 1670636552704
+entry_point_name: ''
+experiment_id: '421894102227387564'
+lifecycle_stage: active
+run_id: 99963fa236114f40bbc80b16c51ed8f4
+run_name: wistful-shark-787
+run_uuid: 99963fa236114f40bbc80b16c51ed8f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670636211149
+status: 3
+tags: []
+user_id: daniel

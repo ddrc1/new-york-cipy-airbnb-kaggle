@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/742691546059373471/408e9f849e9b40fb8ba0eb411f7b3e1b/artifacts
+end_time: 1670517867227
+entry_point_name: ''
+experiment_id: '742691546059373471'
+lifecycle_stage: active
+run_id: 408e9f849e9b40fb8ba0eb411f7b3e1b
+run_name: nervous-fowl-373
+run_uuid: 408e9f849e9b40fb8ba0eb411f7b3e1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670517866864
+status: 3
+tags: []
+user_id: daniel

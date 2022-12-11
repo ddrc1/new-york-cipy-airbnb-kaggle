@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/742691546059373471/92b7c78b69be42819c3227de3c8c181c/artifacts
+end_time: 1670526939859
+entry_point_name: ''
+experiment_id: '742691546059373471'
+lifecycle_stage: active
+run_id: 92b7c78b69be42819c3227de3c8c181c
+run_name: whimsical-whale-932
+run_uuid: 92b7c78b69be42819c3227de3c8c181c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670526939518
+status: 3
+tags: []
+user_id: daniel

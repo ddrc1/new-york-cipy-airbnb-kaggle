@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/421894102227387564/d34ddcc60488477b87dc83c89b5e45a9/artifacts
+end_time: 1670574637622
+entry_point_name: ''
+experiment_id: '421894102227387564'
+lifecycle_stage: active
+run_id: d34ddcc60488477b87dc83c89b5e45a9
+run_name: classy-smelt-684
+run_uuid: d34ddcc60488477b87dc83c89b5e45a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670574193120
+status: 3
+tags: []
+user_id: daniel

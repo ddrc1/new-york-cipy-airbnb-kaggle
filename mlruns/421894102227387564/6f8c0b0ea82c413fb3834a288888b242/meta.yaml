@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/421894102227387564/6f8c0b0ea82c413fb3834a288888b242/artifacts
+end_time: 1670622306768
+entry_point_name: ''
+experiment_id: '421894102227387564'
+lifecycle_stage: active
+run_id: 6f8c0b0ea82c413fb3834a288888b242
+run_name: kindly-finch-40
+run_uuid: 6f8c0b0ea82c413fb3834a288888b242
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670621802690
+status: 3
+tags: []
+user_id: daniel

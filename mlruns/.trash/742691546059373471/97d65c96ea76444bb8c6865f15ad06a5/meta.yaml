@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/742691546059373471/97d65c96ea76444bb8c6865f15ad06a5/artifacts
+end_time: 1670513817164
+entry_point_name: ''
+experiment_id: '742691546059373471'
+lifecycle_stage: active
+run_id: 97d65c96ea76444bb8c6865f15ad06a5
+run_name: flawless-newt-382
+run_uuid: 97d65c96ea76444bb8c6865f15ad06a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670513816805
+status: 3
+tags: []
+user_id: daniel

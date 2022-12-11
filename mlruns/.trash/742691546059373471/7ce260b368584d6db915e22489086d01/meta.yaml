@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/742691546059373471/7ce260b368584d6db915e22489086d01/artifacts
+end_time: 1670522437026
+entry_point_name: ''
+experiment_id: '742691546059373471'
+lifecycle_stage: active
+run_id: 7ce260b368584d6db915e22489086d01
+run_name: fearless-horse-951
+run_uuid: 7ce260b368584d6db915e22489086d01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670522436691
+status: 3
+tags: []
+user_id: daniel

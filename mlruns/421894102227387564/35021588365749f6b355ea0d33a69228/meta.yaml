@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/421894102227387564/35021588365749f6b355ea0d33a69228/artifacts
+end_time: 1670626878473
+entry_point_name: ''
+experiment_id: '421894102227387564'
+lifecycle_stage: active
+run_id: 35021588365749f6b355ea0d33a69228
+run_name: unruly-koi-698
+run_uuid: 35021588365749f6b355ea0d33a69228
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670625234498
+status: 3
+tags: []
+user_id: daniel

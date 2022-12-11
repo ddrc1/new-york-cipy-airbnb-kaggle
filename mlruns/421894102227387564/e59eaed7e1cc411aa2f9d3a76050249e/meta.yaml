@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/421894102227387564/e59eaed7e1cc411aa2f9d3a76050249e/artifacts
+end_time: 1670603934746
+entry_point_name: ''
+experiment_id: '421894102227387564'
+lifecycle_stage: active
+run_id: e59eaed7e1cc411aa2f9d3a76050249e
+run_name: carefree-bird-739
+run_uuid: e59eaed7e1cc411aa2f9d3a76050249e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670603845858
+status: 3
+tags: []
+user_id: daniel

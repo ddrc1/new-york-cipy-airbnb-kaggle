@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/742691546059373471/c88aa605616e4899989e1efda80041ae/artifacts
+end_time: 1670523210175
+entry_point_name: ''
+experiment_id: '742691546059373471'
+lifecycle_stage: active
+run_id: c88aa605616e4899989e1efda80041ae
+run_name: suave-seal-526
+run_uuid: c88aa605616e4899989e1efda80041ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670523209834
+status: 3
+tags: []
+user_id: daniel

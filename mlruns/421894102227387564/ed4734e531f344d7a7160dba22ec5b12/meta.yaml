@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/421894102227387564/ed4734e531f344d7a7160dba22ec5b12/artifacts
+end_time: 1670641157207
+entry_point_name: ''
+experiment_id: '421894102227387564'
+lifecycle_stage: active
+run_id: ed4734e531f344d7a7160dba22ec5b12
+run_name: incongruous-kite-435
+run_uuid: ed4734e531f344d7a7160dba22ec5b12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670640882735
+status: 3
+tags: []
+user_id: daniel

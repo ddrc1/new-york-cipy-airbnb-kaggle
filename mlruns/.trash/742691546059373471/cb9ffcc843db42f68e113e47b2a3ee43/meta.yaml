@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/742691546059373471/cb9ffcc843db42f68e113e47b2a3ee43/artifacts
+end_time: 1670515288842
+entry_point_name: ''
+experiment_id: '742691546059373471'
+lifecycle_stage: active
+run_id: cb9ffcc843db42f68e113e47b2a3ee43
+run_name: bold-dove-640
+run_uuid: cb9ffcc843db42f68e113e47b2a3ee43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670515288549
+status: 3
+tags: []
+user_id: daniel

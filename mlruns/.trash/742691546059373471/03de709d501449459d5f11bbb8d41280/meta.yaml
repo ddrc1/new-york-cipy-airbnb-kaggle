@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/742691546059373471/03de709d501449459d5f11bbb8d41280/artifacts
+end_time: 1670531054523
+entry_point_name: ''
+experiment_id: '742691546059373471'
+lifecycle_stage: active
+run_id: 03de709d501449459d5f11bbb8d41280
+run_name: fun-bee-836
+run_uuid: 03de709d501449459d5f11bbb8d41280
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670531054176
+status: 3
+tags: []
+user_id: daniel

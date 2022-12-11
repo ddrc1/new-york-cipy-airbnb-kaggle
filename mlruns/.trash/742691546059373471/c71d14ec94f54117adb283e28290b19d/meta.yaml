@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/742691546059373471/c71d14ec94f54117adb283e28290b19d/artifacts
+end_time: 1670528061084
+entry_point_name: ''
+experiment_id: '742691546059373471'
+lifecycle_stage: active
+run_id: c71d14ec94f54117adb283e28290b19d
+run_name: merciful-rook-58
+run_uuid: c71d14ec94f54117adb283e28290b19d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670528060752
+status: 3
+tags: []
+user_id: daniel

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/421894102227387564/a4f1801c65f44253a42049dcfdbc1e08/artifacts
+end_time: 1670574193095
+entry_point_name: ''
+experiment_id: '421894102227387564'
+lifecycle_stage: active
+run_id: a4f1801c65f44253a42049dcfdbc1e08
+run_name: trusting-tern-562
+run_uuid: a4f1801c65f44253a42049dcfdbc1e08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670573688259
+status: 3
+tags: []
+user_id: daniel

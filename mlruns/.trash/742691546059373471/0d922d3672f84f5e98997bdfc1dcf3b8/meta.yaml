@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/742691546059373471/0d922d3672f84f5e98997bdfc1dcf3b8/artifacts
+end_time: 1670522357188
+entry_point_name: ''
+experiment_id: '742691546059373471'
+lifecycle_stage: active
+run_id: 0d922d3672f84f5e98997bdfc1dcf3b8
+run_name: gentle-smelt-54
+run_uuid: 0d922d3672f84f5e98997bdfc1dcf3b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670522356904
+status: 3
+tags: []
+user_id: daniel

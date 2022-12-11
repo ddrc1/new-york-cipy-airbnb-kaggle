@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/421894102227387564/1825a39618dd41ffaaf21e51b2613184/artifacts
+end_time: 1670592898871
+entry_point_name: ''
+experiment_id: '421894102227387564'
+lifecycle_stage: active
+run_id: 1825a39618dd41ffaaf21e51b2613184
+run_name: sassy-panda-96
+run_uuid: 1825a39618dd41ffaaf21e51b2613184
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670592392074
+status: 3
+tags: []
+user_id: daniel

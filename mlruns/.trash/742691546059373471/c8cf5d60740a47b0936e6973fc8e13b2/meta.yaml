@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/742691546059373471/c8cf5d60740a47b0936e6973fc8e13b2/artifacts
+end_time: 1670517086810
+entry_point_name: ''
+experiment_id: '742691546059373471'
+lifecycle_stage: active
+run_id: c8cf5d60740a47b0936e6973fc8e13b2
+run_name: dapper-ram-121
+run_uuid: c8cf5d60740a47b0936e6973fc8e13b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670517086468
+status: 3
+tags: []
+user_id: daniel

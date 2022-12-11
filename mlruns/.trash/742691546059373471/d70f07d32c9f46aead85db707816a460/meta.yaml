@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/742691546059373471/d70f07d32c9f46aead85db707816a460/artifacts
+end_time: 1670524132899
+entry_point_name: ''
+experiment_id: '742691546059373471'
+lifecycle_stage: active
+run_id: d70f07d32c9f46aead85db707816a460
+run_name: defiant-squid-786
+run_uuid: d70f07d32c9f46aead85db707816a460
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670524132626
+status: 3
+tags: []
+user_id: daniel

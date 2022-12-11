@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/421894102227387564/7781db3d7f084499ad9a1e1a93cc1e31/artifacts
+end_time: 1670562387082
+entry_point_name: ''
+experiment_id: '421894102227387564'
+lifecycle_stage: active
+run_id: 7781db3d7f084499ad9a1e1a93cc1e31
+run_name: skittish-stoat-79
+run_uuid: 7781db3d7f084499ad9a1e1a93cc1e31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670560394358
+status: 3
+tags: []
+user_id: daniel

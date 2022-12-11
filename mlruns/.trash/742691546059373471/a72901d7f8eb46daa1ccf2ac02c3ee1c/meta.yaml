@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/742691546059373471/a72901d7f8eb46daa1ccf2ac02c3ee1c/artifacts
+end_time: 1670521076953
+entry_point_name: ''
+experiment_id: '742691546059373471'
+lifecycle_stage: active
+run_id: a72901d7f8eb46daa1ccf2ac02c3ee1c
+run_name: unique-deer-226
+run_uuid: a72901d7f8eb46daa1ccf2ac02c3ee1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670521076616
+status: 3
+tags: []
+user_id: daniel

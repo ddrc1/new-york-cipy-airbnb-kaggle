@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/421894102227387564/6e2f418688bf4cc9bef51cddb0e87ae3/artifacts
+end_time: 1670638517053
+entry_point_name: ''
+experiment_id: '421894102227387564'
+lifecycle_stage: active
+run_id: 6e2f418688bf4cc9bef51cddb0e87ae3
+run_name: efficient-mule-951
+run_uuid: 6e2f418688bf4cc9bef51cddb0e87ae3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670636616675
+status: 3
+tags: []
+user_id: daniel

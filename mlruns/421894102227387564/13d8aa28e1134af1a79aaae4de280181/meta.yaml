@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/421894102227387564/13d8aa28e1134af1a79aaae4de280181/artifacts
+end_time: 1670586266970
+entry_point_name: ''
+experiment_id: '421894102227387564'
+lifecycle_stage: active
+run_id: 13d8aa28e1134af1a79aaae4de280181
+run_name: popular-sponge-337
+run_uuid: 13d8aa28e1134af1a79aaae4de280181
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670584259885
+status: 3
+tags: []
+user_id: daniel

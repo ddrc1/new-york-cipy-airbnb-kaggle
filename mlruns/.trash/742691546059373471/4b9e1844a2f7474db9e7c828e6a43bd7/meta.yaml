@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/742691546059373471/4b9e1844a2f7474db9e7c828e6a43bd7/artifacts
+end_time: 1670529718763
+entry_point_name: ''
+experiment_id: '742691546059373471'
+lifecycle_stage: active
+run_id: 4b9e1844a2f7474db9e7c828e6a43bd7
+run_name: nimble-fish-97
+run_uuid: 4b9e1844a2f7474db9e7c828e6a43bd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670529718424
+status: 3
+tags: []
+user_id: daniel

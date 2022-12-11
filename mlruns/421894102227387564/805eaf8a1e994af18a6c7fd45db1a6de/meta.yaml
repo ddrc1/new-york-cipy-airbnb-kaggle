@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/421894102227387564/805eaf8a1e994af18a6c7fd45db1a6de/artifacts
+end_time: 1670646218466
+entry_point_name: ''
+experiment_id: '421894102227387564'
+lifecycle_stage: active
+run_id: 805eaf8a1e994af18a6c7fd45db1a6de
+run_name: melodic-bass-960
+run_uuid: 805eaf8a1e994af18a6c7fd45db1a6de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670645728569
+status: 3
+tags: []
+user_id: daniel

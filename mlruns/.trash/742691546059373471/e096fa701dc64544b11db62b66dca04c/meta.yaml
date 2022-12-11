@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/742691546059373471/e096fa701dc64544b11db62b66dca04c/artifacts
+end_time: 1670521823775
+entry_point_name: ''
+experiment_id: '742691546059373471'
+lifecycle_stage: active
+run_id: e096fa701dc64544b11db62b66dca04c
+run_name: magnificent-croc-636
+run_uuid: e096fa701dc64544b11db62b66dca04c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670521823437
+status: 3
+tags: []
+user_id: daniel

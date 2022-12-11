@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/742691546059373471/1bd56bb03cfb4dba8555d15ef035ec06/artifacts
+end_time: 1670523000381
+entry_point_name: ''
+experiment_id: '742691546059373471'
+lifecycle_stage: active
+run_id: 1bd56bb03cfb4dba8555d15ef035ec06
+run_name: worried-fowl-748
+run_uuid: 1bd56bb03cfb4dba8555d15ef035ec06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670523000111
+status: 3
+tags: []
+user_id: daniel

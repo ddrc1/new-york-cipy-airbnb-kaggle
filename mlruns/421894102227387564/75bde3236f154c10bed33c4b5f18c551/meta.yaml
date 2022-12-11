@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/421894102227387564/75bde3236f154c10bed33c4b5f18c551/artifacts
+end_time: 1670616469553
+entry_point_name: ''
+experiment_id: '421894102227387564'
+lifecycle_stage: active
+run_id: 75bde3236f154c10bed33c4b5f18c551
+run_name: intrigued-robin-535
+run_uuid: 75bde3236f154c10bed33c4b5f18c551
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670615905464
+status: 3
+tags: []
+user_id: daniel

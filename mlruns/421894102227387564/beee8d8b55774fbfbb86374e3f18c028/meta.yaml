@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/Projetos/Python/projetinho%20kaggle/mlruns/421894102227387564/beee8d8b55774fbfbb86374e3f18c028/artifacts
+end_time: 1670573688234
+entry_point_name: ''
+experiment_id: '421894102227387564'
+lifecycle_stage: active
+run_id: beee8d8b55774fbfbb86374e3f18c028
+run_name: amusing-dog-845
+run_uuid: beee8d8b55774fbfbb86374e3f18c028
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670571832059
+status: 3
+tags: []
+user_id: daniel
