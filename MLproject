@@ -1,0 +1,15 @@
+name: airbnb
+conda_env: environment.yml
+
+entry_points:
+    main:
+        parameters:
+            data_path: {type: path, default: ./data/AB_NYC_2019.csv}
+
+            min_samples_split: {type: float, default: 4} #integer values
+            min_samples_leaf: {type: float, default: 2} #integer values
+            bootstrap: {type: string, default: False} #boolean values
+            max_features: {type: string, default: 'sqrt'} #string or float values
+            n_estimators: {type: float, default: 300} #integer values
+            n_jobs: {type: float, default: 5} #integer values
+        command: python main.py {data_path} {min_samples_split} {min_samples_leaf} {bootstrap} {max_features} {n_estimators} {n_jobs}
